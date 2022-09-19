@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spotify-Artist-Search-React/static/css/main.073c9b0a.css",
+    "main.js": "/Spotify-Artist-Search-React/static/js/main.006a7982.js",
+    "static/js/787.a19c38e9.chunk.js": "/Spotify-Artist-Search-React/static/js/787.a19c38e9.chunk.js",
+    "index.html": "/Spotify-Artist-Search-React/index.html",
+    "main.073c9b0a.css.map": "/Spotify-Artist-Search-React/static/css/main.073c9b0a.css.map",
+    "main.006a7982.js.map": "/Spotify-Artist-Search-React/static/js/main.006a7982.js.map",
+    "787.a19c38e9.chunk.js.map": "/Spotify-Artist-Search-React/static/js/787.a19c38e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.006a7982.js"
+  ]
+}
